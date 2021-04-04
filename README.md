@@ -15,3 +15,6 @@ If you want to install this app=>
 
 - to test 
 Just run `npm test`
+
+UML diagram
+![uml](./lab1.PNG)
